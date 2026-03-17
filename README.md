@@ -49,6 +49,9 @@ You can set up the entire environment and run the notebook with a single command
 | **Stop Drawing** | Fold your index finger or move it into the top menu area. |
 | **Exit** | Press the **ESC** key to close the camera window. |
 
+# Demo
+![Air Draw Demo](demo.gif)
+
 ## Project Structure
 
 * `run.sh`: Automated environment setup and dependency installer.
