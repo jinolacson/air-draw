@@ -50,7 +50,7 @@ You can set up the entire environment and run the notebook with a single command
 | **Exit** | Press the **ESC** key to close the camera window. |
 
 # Demo
-![Air Draw Demo](demo.gif)
+![Air Draw Demo](demo.png)
 
 ## Project Structure
 
